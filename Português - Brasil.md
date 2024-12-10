@@ -2,5 +2,5 @@
 
 # Baixe o meu currículo e descubra como posso contribuir para o seu time!
 
-[![BAIXAR](https://img.shields.io/badge/BAIXAR-FF4500?style=for-the-badge&logo=BAIXAR&logoColor=white)](https://github.com/user-attachments/files/18086260/curriculo.pt-br.pdf)
+[[BAIXAR](https://img.shields.io/badge/BAIXAR-FF4500?style=for-the-badge&logo=BAIXAR&logoColor=white)](https://github.com/user-attachments/files/18086260/curriculo.pt-br.pdf)
 
